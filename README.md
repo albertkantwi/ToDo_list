@@ -42,6 +42,7 @@ With a passion for web development, I have honed my expertise in these technolog
 
 ## 🚀 Live Demo
 
+- You can see the demo [Here](https://albertkantwi.github.io/to_do_list/dist/)
 
 ## Key Features
 
